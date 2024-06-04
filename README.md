@@ -14,7 +14,7 @@ MIT
 
 
 #  Bibtex
-```
+```bibtex
 @misc{bodnar2024aurora,
     title={Aurora: A Foundation Model of the Atmosphere}, 
     author={Cristian Bodnar and Wessel P. Bruinsma and Ana Lucic and Megan Stanley and Johannes Brandstetter and Patrick Garvan and Maik Riechert and Jonathan Weyn and Haiyu Dong and Anna Vaughan and Jayesh K. Gupta and Kit Tambiratnam and Alex Archibald and Elizabeth Heider and Max Welling and Richard E. Turner and Paris Perdikaris},
@@ -29,4 +29,6 @@ MIT
 
 - [Blog Release: Introducing Aurora: The first large-scale foundation model of the atmosphere](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
 
-- 
+- [Paper Link](https://arxiv.org/abs/2405.13063)
+
+<!-- - [Microsoft Twitter Thread]() -->
