@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "aurora-torch"
-version = "0.0.6"
+version = "0.0.9"
 description = "Weather Swarm - Pytorch"
 license = "MIT"
 authors = ["Kye Gomez <kye@apac.ai>"]
@@ -24,10 +24,8 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.10"
 torch = "*"
-torchvision = "*"
 zetascale = "*"
-einops = "*"
-
+loguru = "*"
 
 [tool.poetry.group.lint.dependencies]
 ruff = "^0.1.6"
